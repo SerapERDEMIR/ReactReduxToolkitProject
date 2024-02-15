@@ -10,4 +10,4 @@
 📌 React Icons
 📌 Tailwind CSS
 
-<img src="/public/poroject.gif" />
+<img src="/public/project.gif" />
